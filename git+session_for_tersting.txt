@@ -102,6 +102,7 @@ Untracked files:
 
 means files should be going to stageing area and file also tracked.
 
+ note: if you add single file:- git add .
 
 4.$ git status
 On branch master
